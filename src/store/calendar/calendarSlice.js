@@ -7,7 +7,7 @@ import { createSlice } from '@reduxjs/toolkit';
 //     notes: 'Comprar el pastel',
 //     start: new Date(),
 //     end: addHours(new Date(), 2),
-//     bgcolor: '#fafafa',
+//     bgColor: '#fafafa',
 //     user: {id: 123, name: 'Francisco'}
 // }
 
